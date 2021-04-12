@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmguImageStream", "EmguImageStream\EmguImageStream.csproj", "{8E780C46-A519-46DA-9EBD-7051DFF7ACAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageStreamTester", "ImageStreamTester\ImageStreamTester.csproj", "{46E60812-CF45-402B-93DC-2A9737AE31E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8E780C46-A519-46DA-9EBD-7051DFF7ACAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E780C46-A519-46DA-9EBD-7051DFF7ACAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E780C46-A519-46DA-9EBD-7051DFF7ACAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E60812-CF45-402B-93DC-2A9737AE31E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E60812-CF45-402B-93DC-2A9737AE31E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E60812-CF45-402B-93DC-2A9737AE31E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E60812-CF45-402B-93DC-2A9737AE31E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
